@@ -1,7 +1,7 @@
 {
   "name": "alt-onoff",
   "main": ["dist/alt-onoff.min.js","dist/alt-onoff.min.css"],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/dsn-nimbus/alt-onoff.git",
   "authors": ["dsn-nimbus <leonardoebs@gmail.com>"],
   "description": "desc",
